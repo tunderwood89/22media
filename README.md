@@ -1,0 +1,2 @@
+# 22media
+Website for my MEDIA EMPIRE HAHAHAHHAHAA
