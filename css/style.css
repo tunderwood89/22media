@@ -134,7 +134,7 @@ body {
 }
 
 footer {
-	margin:var(--spacing-xxl) 0;
+	margin:var(--spacing-l) 0;
     font-size:var(--scale-0);
 }
 
