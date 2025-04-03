@@ -1,2 +1,2 @@
 # 22media
-Website for my MEDIA EMPIRE HAHAHAHHAHAA
+Website for my (now retired) MEDIA EMPIRE HAHAHAHHAHAA
